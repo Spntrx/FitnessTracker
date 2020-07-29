@@ -11,4 +11,4 @@ You will be able to:
  
  # Instal Notes
   
-  The application can be found at the following site: 
+  The application can be found at the following site: https://issa-fitness-tracker.herokuapp.com/
